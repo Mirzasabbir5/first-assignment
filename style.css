@@ -30,3 +30,60 @@ body{
     padding: 10px 15px;
     border-radius: 10%;
 }
+.product-information{
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+}
+.product-area{
+    display: flex;
+
+}
+.product-area1{
+    width: 40%;
+    height: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 20px gray;
+}
+.img{
+    border-radius: 10px;
+}
+.extra-work{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;
+   
+}
+.big{
+    font-size: 50px;
+}
+#color-change{
+    color: orangered;
+}
+#text-align {
+    text-align: center;
+    color: thistle;
+}
+footer{
+    background-color: black;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%; 
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-bottom: 25px; 
+    color: thistle;
+    text-align: center;
+}
+.text-align{
+    margin-left: 12%;
+    margin-right: 7%;
+    padding: 20px 30px 10px 5px;
+}
